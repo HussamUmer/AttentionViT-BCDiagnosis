@@ -108,5 +108,12 @@ The following graph compares our proposed **Attention-Based ViT** with several s
 **Key Insight:**  
 Our proposed model achieves **96.305%** average accuracy across all magnifications, outperforming many existing CNN-based and hybrid architectures.
 
+---
+
+## 📬 Contact
+For any questions regarding the code, dataset, or paper:
+📧 Sana Ullah Khan — sana.ullah@kust.edu.pk
+📧 Hussam Umer — hussamumer28092000@gmail.com
+
 
 
