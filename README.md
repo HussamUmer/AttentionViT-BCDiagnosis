@@ -38,7 +38,31 @@ We used the **BreakHis histopathology dataset** containing 7,909 images of benig
 
 ---
 
-### 3️⃣ Run notebooks in Google Colab
+## 🧠 Methodology
+
+Our proposed approach:
+
+1. **Image Preprocessing**  
+   - Color normalization  
+   - Data augmentation  
+   - Magnification-specific resizing (224×224)
+
+2. **Patch Embedding**  
+   - Splits images into patches & embeds them into a sequence.
+
+3. **Self-Attention Mechanism**  
+   - Captures both local and global dependencies.
+
+4. **Classification Head**  
+   - Multi-Layer Perceptron (MLP) with ReLU activation & dropout.
+
+5. **Evaluation**  
+   - Accuracy, Precision, Recall, and F1-Score.
+
+
+---
+
+## Run notebooks in Google Colab
 
 | Magnification | Colab Link |
 |---------------|------------|
@@ -46,4 +70,43 @@ We used the **BreakHis histopathology dataset** containing 7,909 images of benig
 | **100X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_100X.ipynb) |
 | **200X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_200X.ipynb) |
 | **400X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_400X.ipynb) |
+
+---
+
+## 📊 Results
+
+Here are the results across each magnification:
+
+### 📉 Confusion Matrices for All Magnifications
+
+| **40X** | **100X** |
+|---------|----------|
+| ![40X Confusion Matrix](docs/confusion_40x.png) | ![100X Confusion Matrix](docs/confusion_100x.png) |
+
+| **200X** | **400X** |
+|----------|----------|
+| ![200X Confusion Matrix](docs/confusion_200x.png) | ![400X Confusion Matrix](docs/confusion_400x.png) |
+
+### 📊 Performance Metrics
+
+Below are the classification metric graphs (Accuracy, Precision, Recall, F1-Score) for each magnification level.
+
+| **40X** | **100X** |
+|---------|----------|
+| ![Performance Metrics - 40X](docs/performance_40x.png) | ![Performance Metrics - 100X](docs/performance_100x.png) |
+
+| **200X** | **400X** |
+|----------|----------|
+| ![Performance Metrics - 200X](docs/performance_200x.png) | ![Performance Metrics - 400X](docs/performance_400x.png) |
+
+### 📈 Model Comparison
+
+The following graph compares our proposed **Attention-Based ViT** with several state-of-the-art models for breast cancer classification.
+
+![Model Comparison](docs/model_comparison.png)
+
+**Key Insight:**  
+Our proposed model achieves **96.305%** average accuracy across all magnifications, outperforming many existing CNN-based and hybrid architectures.
+
+
 
