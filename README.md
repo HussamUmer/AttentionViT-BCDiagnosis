@@ -93,11 +93,11 @@ Below are the classification metric graphs (Accuracy, Precision, Recall, F1-Scor
 
 | **40X** | **100X** |
 |---------|----------|
-| ![Performance Metrics - 40X](docs/performance_40x.png) | ![Performance Metrics - 100X](docs/performance_100x.png) |
+| ![Performance Metrics - 40X](Results%20and%20Outputs/Classification%20Metrics/400x%20Metrics.png) | ![Performance Metrics - 100X](Results%20and%20Outputs/Classification%20Metrics/100x%20Metrics.png) |
 
 | **200X** | **400X** |
 |----------|----------|
-| ![Performance Metrics - 200X](docs/performance_200x.png) | ![Performance Metrics - 400X](docs/performance_400x.png) |
+| ![Performance Metrics - 200X](Results%20and%20Outputs/Classification%20Metrics/200x%20Metrics.png) | ![Performance Metrics - 400X](Results%20and%20Outputs/Classification%20Metrics/400x%20Metrics.png) |
 
 ### 📈 Model Comparison
 
