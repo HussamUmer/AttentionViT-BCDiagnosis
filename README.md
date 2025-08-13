@@ -66,7 +66,7 @@ Our proposed approach:
 
 | Magnification | Colab Link |
 |---------------|------------|
-| **40X**       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_40X.ipynb) |
+| **40X**       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HussamUmer/AttentionViT-BCDiagnosis/blob/main/Notebook%20Files/100x_multiclassification_vit.ipynb) |
 | **100X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_100X.ipynb) |
 | **200X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_200X.ipynb) |
 | **400X**      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/username/BreastCancer-ViT/blob/main/ViT_400X.ipynb) |
