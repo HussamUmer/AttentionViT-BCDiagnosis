@@ -81,11 +81,11 @@ Here are the results across each magnification:
 
 | **40X** | **100X** |
 |---------|----------|
-| ![40X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/40x.png.png) | ![100X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/100x.png.png) |
+| ![40X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/40x.png) | ![100X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/100x.png) |
 
 | **200X** | **400X** |
 |----------|----------|
-| ![200X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/200x.png.png) | ![400X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/400x.png.png) |
+| ![200X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/200x.png) | ![400X Confusion Matrix](Results%20and%20Outputs/Confusion%20Matrics/400x.png) |
 
 ### 📊 Performance Metrics
 
