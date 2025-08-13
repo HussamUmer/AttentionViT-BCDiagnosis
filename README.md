@@ -103,7 +103,7 @@ Below are the classification metric graphs (Accuracy, Precision, Recall, F1-Scor
 
 The following graph compares our proposed **Attention-Based ViT** with several state-of-the-art models for breast cancer classification.
 
-![Model Comparison](docs/model_comparison.png)
+![Model Comparison](Results%20and%20Outputs/Comparative%20Graph/msedge_JdxRUbOpg2.png)
 
 **Key Insight:**  
 Our proposed model achieves **96.305%** average accuracy across all magnifications, outperforming many existing CNN-based and hybrid architectures.
