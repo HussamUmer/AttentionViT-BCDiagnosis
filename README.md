@@ -112,8 +112,8 @@ Our proposed model achieves **96.305%** average accuracy across all magnificatio
 
 ## 📬 Contact
 For any questions regarding the code, dataset, or paper:
-📧 Sana Ullah Khan — sana.ullah@kust.edu.pk
-📧 Hussam Umer — hussamumer28092000@gmail.com
+- **Dr. Sana Ullah Khan** – [sana.ullah@kust.edu.pk](mailto:sana.ullah@kust.edu.pk)  
+- **Hussam Umer** – [hussamumer28092000@gmail.com](mailto:hussamumer28092000@gmail.com)
 
 
 
